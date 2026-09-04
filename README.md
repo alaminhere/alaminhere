@@ -1,6 +1,6 @@
-Building modern web applications. Learning fast. Shipping real products.
+ <h1>Building modern web applications. Learning fast. Shipping real products.</h1>
 
- <h1>Full Stack Web Developer • Next.js & React • TypeScript · Node.js · Express.js</h1>
+**Full Stack Web Developer • Next.js & React • TypeScript · Node.js · Express.js**
 
 ---
 
@@ -66,5 +66,7 @@ Next.js App Router · Backend Architecture · REST API Design · Authentication 
 ## Connect
 
 **Portfolio:** [alaminhosen.vercel.app](https://alaminhosen.vercel.app/)
+
 **LinkedIn:** [linkedin.com/in/alamin-one](https://linkedin.com/in/alamin-one/)
+
 **Email:** [alamin1developer@gmail.com](mailto:alamin1developer@gmail.com)
