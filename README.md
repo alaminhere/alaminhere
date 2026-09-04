@@ -1,6 +1,6 @@
- Building modern web applications. Learning fast. Shipping real products.
+Building modern web applications. Learning fast. Shipping real products.
 
-**Full Stack Web Developer • Next.js & React • TypeScript · Node.js · Express.js**
+ <h1>Full Stack Web Developer • Next.js & React • TypeScript · Node.js · Express.js</h1>
 
 ---
 
