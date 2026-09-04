@@ -4,9 +4,6 @@
   <img src="./_banner.png" alt="Banner" width="100%">
 </p>
 
-<p align="start">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00A8D9&start=true&start=true&width=700&lines=Full+Stack+Developer;Next.js+Developer;React+%7C+TypeScript;MongoDB+%7C+Prisma;Always+Learning+New+Things"/>
-</p>
 
 <p align="start">
   <a href="https://alaminhosen.vercel.app/">
