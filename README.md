@@ -1,4 +1,4 @@
- <h1>Building modern web applications. Learning fast. Shipping real products.</h1>
+Building modern web applications. Learning fast. Shipping real products.
 
 **Full Stack Web Developer • Next.js & React • TypeScript · Node.js · Express.js**
 
@@ -20,7 +20,7 @@ I believe good software should be **simple, maintainable, and built with purpose
 |---|---|
 | Frontend | Next.js · React · TypeScript · Tailwind CSS |
 | Backend | Node.js · Express.js · REST APIs |
-| Database | MongoDB · PostgreSQL · Prisma · Mongoose · Redis |
+| Database | MongoDB · MySQL · PostgreSQL · Prisma · Mongoose · Redis |
 | Auth | NextAuth · JWT · Role-based Access |
 | Payments | Stripe |
 | Deployment | Vercel · Render · Cloudinary |
@@ -43,7 +43,7 @@ I believe good software should be **simple, maintainable, and built with purpose
 **Languages:** TypeScript · JavaScript · SQL
 **Frontend:** Next.js · React · Tailwind CSS · Redux Toolkit
 **Backend:** Node.js · Express.js
-**Database:** MongoDB · PostgreSQL · Prisma · Redis
+**Database:** MongoDB · MySQL · PostgreSQL · Prisma · Redis
 **Tools:** Git · GitHub · Postman · Vercel
 
 ---
@@ -66,7 +66,5 @@ Next.js App Router · Backend Architecture · REST API Design · Authentication 
 ## Connect
 
 **Portfolio:** [alaminhosen.vercel.app](https://alaminhosen.vercel.app/)
-
 **LinkedIn:** [linkedin.com/in/alamin-one](https://linkedin.com/in/alamin-one/)
-
 **Email:** [alamin1developer@gmail.com](mailto:alamin1developer@gmail.com)
