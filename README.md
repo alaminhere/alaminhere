@@ -1,5 +1,4 @@
-Building modern web applications. Learning fast. Shipping real products.
-
+<h1>Building modern web applications. Learning fast. Shipping real products.</h1>
 **Full Stack Web Developer • Next.js & React • TypeScript · Node.js · Express.js**
 
 ---
@@ -29,7 +28,7 @@ I believe good software should be **simple, maintainable, and built with purpose
 
 ## Featured Project
 
-**Developer Portfolio** — public portfolio with a secure admin dashboard, authentication, case study management, image uploads, and server actions.
+**Casefolio** — a developer portfolio platform with a secure admin dashboard, authentication, case study management, image uploads, and server actions.
 
 ## Upcoming Projects
 
@@ -66,5 +65,7 @@ Next.js App Router · Backend Architecture · REST API Design · Authentication 
 ## Connect
 
 **Portfolio:** [alaminhosen.vercel.app](https://alaminhosen.vercel.app/)
+
 **LinkedIn:** [linkedin.com/in/alamin-one](https://linkedin.com/in/alamin-one/)
+
 **Email:** [alamin1developer@gmail.com](mailto:alamin1developer@gmail.com)
