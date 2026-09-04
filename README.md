@@ -32,18 +32,18 @@ I believe good software should be **simple, maintainable, and built with purpose
 
 ## Upcoming Projects
 
-- **Inventory Management System** — Next.js · PostgreSQL · Prisma · Redis. Stock, suppliers, purchases, sales, and analytics.
+- **Inventory Management System** — Next.js · MySQL · Prisma . Stock, suppliers, purchases, sales, and analytics.
 - **Booking Management System** — Next.js · PostgreSQL · Prisma · Redis. Scheduling, availability, payments, and notifications.
 
 ---
 
 ## Technical Stack
 
-**Languages:** TypeScript · JavaScript · SQL
-**Frontend:** Next.js · React · Tailwind CSS · Redux Toolkit
-**Backend:** Node.js · Express.js
-**Database:** MongoDB · MySQL · PostgreSQL · Prisma · Redis
-**Tools:** Git · GitHub · Postman · Vercel
+**Languages:** TypeScript · JavaScript · SQL <br>
+**Frontend:** Next.js · React · Tailwind CSS · Redux Toolkit <br>
+**Backend:** Node.js · Express.js <br>
+**Database:** MongoDB · MySQL · PostgreSQL · Prisma · Mongoose · Redis <br>
+**Tools:** Git · GitHub · Postman · Vercel <br>
 
 ---
 
@@ -56,16 +56,14 @@ Next.js App Router · Backend Architecture · REST API Design · Authentication 
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alamin-one&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-one&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alamin-one&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-one&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ## Connect
 
-**Portfolio:** [alaminhosen.vercel.app](https://alaminhosen.vercel.app/)
-
-**LinkedIn:** [linkedin.com/in/alamin-one](https://linkedin.com/in/alamin-one/)
-
+**Portfolio:** [alaminhosen.vercel.app](https://alaminhosen.vercel.app/) <br>
+**LinkedIn:** [linkedin.com/in/alamin-one](https://linkedin.com/in/alamin-one/)<br>
 **Email:** [alamin1developer@gmail.com](mailto:alamin1developer@gmail.com)
