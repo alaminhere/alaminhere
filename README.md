@@ -65,6 +65,6 @@ Next.js App Router · Backend Architecture · REST API Design · Authentication 
 
 ## Connect
 
-**Portfolio:** [alaminhosen.vercel.app](https://alaminhosen.vercel.app/) <br>
-**LinkedIn:** [linkedin.com/in/alamin-one](https://linkedin.com/in/alamin-one/)<br>
+**Portfolio:** [alaminhere.com](https://alaminhere.com) <br>
+**LinkedIn:** [linkedin.com/in/alamin-one](https://linkedin.com/in/alamin-here/)<br>
 **Email:** [alamin1developer@gmail.com](mailto:alamin1developer@gmail.com)
