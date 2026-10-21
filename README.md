@@ -23,7 +23,7 @@ I believe good software should be **simple, maintainable, and built with purpose
 | Database | MySQL · MongoDB · Prisma ORM · Mongoose · Firebase |
 | Auth & Security | NextAuth · JWT · Role-based Access Control (RBAC) · Zod |
 | Integrations | Stripe · SSLCommerz · Cloudinary · Resend |
-| DevOps & Tools | Linux · Cloudflare · Git · GitHub · Postman · Vercel · Render |
+| DevOps & Tools | Linux · Cloudflare · Git · GitHub · Postman · Figma · Vercel · Render |
 
 ---
 
@@ -46,7 +46,7 @@ I believe good software should be **simple, maintainable, and built with purpose
 **Backend:** Node.js, Express.js, Prisma ORM, Socket.IO, REST APIs, JWT, NextAuth, Zod <br>
 **Databases:** MySQL, MongoDB (Mongoose), Firebase <br>
 **Architecture:** Multi-Tenant SaaS, Role-Based Access Control (RBAC), Real-Time WebSockets, ACID Transactions <br>
-**Tools & Platforms:** Git & GitHub, Linux, Cloudflare, Render, Vercel, Cloudinary, Resend, Stripe, SSLCommerz, Postman, WordPress, VS Code <br>
+**Tools & Platforms:** Git & GitHub, Figma, Linux, Cloudflare, Render, Vercel, Cloudinary, Resend, Stripe, SSLCommerz, Postman, WordPress, VS Code <br>
 
 ---
 
